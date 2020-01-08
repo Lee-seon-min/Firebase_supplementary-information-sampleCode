@@ -1,0 +1,17 @@
+C:\Users\이선민\source\repos\Functionality_Messenger_Server\Functionality_Messenger_Server\bin\Release\Functionality_Messenger_Server.exe.config
+C:\Users\이선민\source\repos\Functionality_Messenger_Server\Functionality_Messenger_Server\bin\Release\Functionality_Messenger_Server.exe
+C:\Users\이선민\source\repos\Functionality_Messenger_Server\Functionality_Messenger_Server\bin\Release\Functionality_Messenger_Server.pdb
+C:\Users\이선민\source\repos\Functionality_Messenger_Server\Functionality_Messenger_Server\bin\Release\MySql.Data.dll
+C:\Users\이선민\source\repos\Functionality_Messenger_Server\Functionality_Messenger_Server\bin\Release\Google.Protobuf.dll
+C:\Users\이선민\source\repos\Functionality_Messenger_Server\Functionality_Messenger_Server\bin\Release\Renci.SshNet.dll
+C:\Users\이선민\source\repos\Functionality_Messenger_Server\Functionality_Messenger_Server\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\이선민\source\repos\Functionality_Messenger_Server\Functionality_Messenger_Server\bin\Release\MySql.Data.xml
+C:\Users\이선민\source\repos\Functionality_Messenger_Server\Functionality_Messenger_Server\obj\Release\Functionality_Messenger_Server.csprojAssemblyReference.cache
+C:\Users\이선민\source\repos\Functionality_Messenger_Server\Functionality_Messenger_Server\obj\Release\Functionality_Messenger_Server.ChatServer.resources
+C:\Users\이선민\source\repos\Functionality_Messenger_Server\Functionality_Messenger_Server\obj\Release\Functionality_Messenger_Server.HomeServer.resources
+C:\Users\이선민\source\repos\Functionality_Messenger_Server\Functionality_Messenger_Server\obj\Release\Functionality_Messenger_Server.Properties.Resources.resources
+C:\Users\이선민\source\repos\Functionality_Messenger_Server\Functionality_Messenger_Server\obj\Release\Functionality_Messenger_Server.csproj.GenerateResource.cache
+C:\Users\이선민\source\repos\Functionality_Messenger_Server\Functionality_Messenger_Server\obj\Release\Functionality_Messenger_Server.csproj.CoreCompileInputs.cache
+C:\Users\이선민\source\repos\Functionality_Messenger_Server\Functionality_Messenger_Server\obj\Release\Functionality_Messenger_Server.csproj.CopyComplete
+C:\Users\이선민\source\repos\Functionality_Messenger_Server\Functionality_Messenger_Server\obj\Release\Functionality_Messenger_Server.exe
+C:\Users\이선민\source\repos\Functionality_Messenger_Server\Functionality_Messenger_Server\obj\Release\Functionality_Messenger_Server.pdb

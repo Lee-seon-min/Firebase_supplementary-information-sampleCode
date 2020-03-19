@@ -1,4 +1,4 @@
-#Supplementary_information  
+# Supplementary_information  
 ## Crash reporting  
 사용자가 앱을 사용시, 비정상정인 오류가 발생했을때 관리자가 이 오류를 쉽게 파악할 수 있다.  
 <a href=https://firebase.google.com/docs/crashlytics>How to use Crashlytics</a>  
